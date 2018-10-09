@@ -5,7 +5,7 @@ A simple, lightweight JavaScript API for handling cookies with TypeScript.
 
 ## Installation
 ```
-npm i ts-cookie
+npm i ts-cookies
 ```
 
 ```javascript
