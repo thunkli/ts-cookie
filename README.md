@@ -1,4 +1,4 @@
-# ts-cookie
+# ts-cookies
 
 A simple, lightweight JavaScript API for handling cookies with TypeScript.
 
@@ -9,7 +9,7 @@ npm i ts-cookie
 ```
 
 ```javascript
-import Cookies from "ts-cookie";
+import Cookies from "ts-cookies";
 ```
 ## Basic Usage
 
