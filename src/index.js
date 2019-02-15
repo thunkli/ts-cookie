@@ -142,4 +142,4 @@ function cookie() {
     });
 }
 
-export default cookie();
+module.exports = cookie();
